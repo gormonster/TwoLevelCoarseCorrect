@@ -1,5 +1,5 @@
-module TwoLevelCoarseCorrect
 
+<<<<<<< HEAD
 function set_data_to_ones(A)
 	# create copy of matrix A
 	matrix = copy(A)
@@ -222,3 +222,5 @@ end
 
 end
 end
+=======
+>>>>>>> 1a5ff369269e5d607a625b2400c86c0487fb703d
